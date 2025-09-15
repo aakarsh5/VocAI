@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+faster-whisper
+langchain
+transformers
+torch
+sentencepiece
+accelerate
+gTTS
+pydub
+ffmpeg-python
+websockets
+aiofiles
